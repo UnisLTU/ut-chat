@@ -1,0 +1,59 @@
+.text {
+  overflow-wrap: break-word;
+  word-wrap: normal;
+}
+
+.edit_button {
+  display: flex;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.pencil {
+  color: rgb(120, 120, 120);
+}
+
+.edit_button:hover > .pencil {
+  color: rgb(0, 0, 0);
+}
+
+.edit_message_button {
+  display: flex;
+  align-items: center;
+  border: none;
+  background-color: transparent;
+  color: grey;
+  padding-right: 5px;
+  transition: ease-in-out 0.2s;
+}
+
+.edit_message_button:hover {
+  color: rgb(50, 50, 50);
+  transition: ease-in-out 0.2s;
+}
+
+.red:hover {
+  color: rgba(255, 74, 74, 0.891);
+}
+.green:hover {
+  color: rgba(74, 255, 140, 0.891);
+}
+
+.form {
+  display: flex;
+  align-items: center;
+}
+
+.form input {
+  margin: 0px;
+  border: none;
+  background: transparent;
+}
+
+.edit_message_button svg {
+  padding-top: 3px;
+}
+
+@media only screen and (max-width: 1024px) {
+}
