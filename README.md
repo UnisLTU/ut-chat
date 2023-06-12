@@ -1,5 +1,5 @@
 <h3 align="center">
-    <a href="https://unisltu.github.io/utchat/">U.t. Chat</a> &nbsp; &nbsp;
+    <a href="https://unisltu.github.io/ut-chat/">U.t. Chat</a> &nbsp; &nbsp;
 </h3>
 
 <h3 align="center">
